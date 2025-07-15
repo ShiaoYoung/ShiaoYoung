@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="28.0.4">
+  <diagram name="第 1 页" id="sAsJr4UM6MUzJXsH0EuW">
+    <mxGraphModel dx="3168" dy="2998" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CRA65n0yeXQXucuVFxah-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-1" target="CRA65n0yeXQXucuVFxah-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.flowchart.on-page_reference;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1160" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-2" target="CRA65n0yeXQXucuVFxah-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-2" value="加入社区" style="rounded=0;whiteSpace=wrap;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-3" target="CRA65n0yeXQXucuVFxah-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-3" value="申领ISSUE" style="rounded=0;whiteSpace=wrap;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-4" target="CRA65n0yeXQXucuVFxah-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-4" value="代码下载%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2020px%3B%26quot%3B%26gt%3B%E7%94%B3%E9%A2%86ISSUE%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%22-980%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=0;whiteSpace=wrap;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-6" target="CRA65n0yeXQXucuVFxah-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-6" value="环境搭建" style="rounded=0;whiteSpace=wrap;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-7" target="CRA65n0yeXQXucuVFxah-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-7" value="项目开发" style="rounded=0;whiteSpace=wrap;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-8" target="CRA65n0yeXQXucuVFxah-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-8" value="代码提交" style="rounded=0;whiteSpace=wrap;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-9" target="CRA65n0yeXQXucuVFxah-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-9" value="提交PR" style="rounded=0;whiteSpace=wrap;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-20" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-10" target="CRA65n0yeXQXucuVFxah-7">
+          <mxGeometry x="-0.8286" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="-390" />
+              <mxPoint x="590" y="-680" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-24" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="CRA65n0yeXQXucuVFxah-10" target="CRA65n0yeXQXucuVFxah-23">
+          <mxGeometry x="-0.2" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-10" value="代码是否能合并" style="strokeWidth=2;shape=mxgraph.flowchart.decision;whiteSpace=wrap;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-440" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA65n0yeXQXucuVFxah-23" value="完成ISSUE" style="rounded=0;whiteSpace=wrap;textShadow=0;textOpacity=0;convertToSvg=0;shadow=0;strokeWidth=2;fillColor=none;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
